@@ -1,0 +1,2 @@
+C:\Users\saba2\Desktop\whitehat\p60onwards>expo init taskmanager
+C:\Users\saba2\Desktop\whitehat\p60onwards\taskmanager>expo start
